@@ -1,3 +1,5 @@
+//THREAD PROGRAM EXAMPLE FOR DEMO// 
+
 package ultracode;
 import java.lang.*;
 class ThreadDemo extends Thread {
